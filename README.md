@@ -1,7 +1,8 @@
 # Leaderboard_undecidable
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository is the official implementation of the paper **"Verified Private Benchmarks for Frontier Reasoning"**. It introduces a novel framework for evaluating Large Language Models (LLMs) that addresses the critical challenges of **benchmark saturation**, **data contamination**, and the **lack of transparency** in private evaluations.
+This repository is the official implementation of the paper **"Trustworthy Leaderboard: Post-Training DiD Analysis to Reveal Leakage in
+Private Math Dataset"**. It introduces a novel framework for evaluating Large Language Models (LLMs) that addresses the critical challenges of **benchmark saturation**, **data contamination**, and the **lack of transparency** in private evaluations.
 
 ## 📖 Introduction
 
